@@ -11,7 +11,7 @@ Modbus TCP와 Modbus RTU 통신 방식을 이용한 차량 출입 통제 시스�
 ## Project Overview & Used Devices
 
 ![image](https://user-images.githubusercontent.com/48133047/122399989-40050380-cfb6-11eb-8d72-79fb718a6cf8.png)
-![image](https://user-images.githubusercontent.com/48133047/122401031-3203b280-cfb7-11eb-891f-634308bd0f8f.png)
+![image](https://user-images.githubusercontent.com/48133047/122401212-5cee0680-cfb7-11eb-8bb6-008481270418.png)
 ![image](https://user-images.githubusercontent.com/48133047/122399855-21067180-cfb6-11eb-95d5-7b63bd5646f5.png)
 ![image](https://user-images.githubusercontent.com/48133047/122399884-29f74300-cfb6-11eb-8b19-b68df3603b47.png)
 ![image](https://user-images.githubusercontent.com/48133047/122400049-501ce300-cfb6-11eb-9e35-e891d9dfd152.png)
