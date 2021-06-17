@@ -9,7 +9,7 @@
 
 ## Project Overview & Used Sensors
 
-![image](https://user-images.githubusercontent.com/48133047/122396367-e222ec80-cfb2-11eb-985d-52bf2909f6a6.png | width=50)
+![image](https://user-images.githubusercontent.com/48133047/122396367-e222ec80-cfb2-11eb-985d-52bf2909f6a6.png)
 ![image](https://user-images.githubusercontent.com/48133047/122397118-a0467600-cfb3-11eb-86be-52ed419ce5c4.png)
 ![image](https://user-images.githubusercontent.com/48133047/122397184-b05e5580-cfb3-11eb-8cb5-63cfaa608fee.png)
 ![image](https://user-images.githubusercontent.com/48133047/122397210-b6eccd00-cfb3-11eb-9fb5-64803bead9fd.png)
