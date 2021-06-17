@@ -1,6 +1,7 @@
 # Modbus Protocol Project - Vehicle Access Control System
+Modbus TCP와 Modbus RTU 통신 방식을 이용한 차량 출입 통제 시스템
 
-## What is Modbus Protocol
+## What is Modbus Protocol?
 1979년, Modicon에서 만든 시리얼 통신 프로토콜<br>
 프로토콜이 단순하고 무료라서 산업 현장에서 전자 장치들을 서로 연결하는 목적으로 널리 사용된다.<br>
 
